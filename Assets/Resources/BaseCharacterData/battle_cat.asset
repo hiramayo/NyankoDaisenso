@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d29e6a51e5cf24d6db216e1c083af612, type: 3}
+  m_Name: battle_cat
+  m_EditorClassIdentifier: 
+  imageOrientation: 0
+  millitaryCamp: 0
+  CharacterTypes: 00000000
+  SpecialEffects:
+  - {fileID: 11400000, guid: 2deb6cb6f9157453aa3e8e6776f0c8ae, type: 2}
+  attackType: 0
+  attackEffect: {fileID: 100018, guid: be15a935bf3de41d2a58071803694d6b, type: 3}
+  Name: "\u30D0\u30C8\u30EB\u306D\u3053"
+  CharacterId: battle_cat
+  BasePrice: 300
+  BaseHP: 500
+  attackFrequency: 27
+  attackRange: 150
+  BaseMoveSpeed: 12
+  BaseAttackPoint: 62
+  NumberOfKnockBack: 3
+  ProductionInterval: 2

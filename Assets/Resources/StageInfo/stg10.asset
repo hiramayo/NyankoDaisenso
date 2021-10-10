@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e619ace56befd4d8b8aebeafa9618cdd, type: 3}
+  m_Name: stg10
+  m_EditorClassIdentifier: 
+  StgID: 9
+  EnemyCampStrength: 2500
+  enemyInfos:
+  - baseCharacterData: {fileID: 11400000, guid: 88669e149014d44199e28554dcd3f2c9,
+      type: 2}
+    NumberOfAppearance: -1
+    Magnification: 1
+    StrengthOfCastle: 100
+    InitialIntervalFrame: 0
+    IntervalFrameFrom: 320
+    IntervalFrameTo: 560
+  - baseCharacterData: {fileID: 11400000, guid: e61130b85549f4a5e87cad4bbf892d32,
+      type: 2}
+    NumberOfAppearance: -1
+    Magnification: 1
+    StrengthOfCastle: 100
+    InitialIntervalFrame: 240
+    IntervalFrameFrom: 600
+    IntervalFrameTo: 1600
+  - baseCharacterData: {fileID: 11400000, guid: 35f7e9382e3dd488aa77f7d5e40864a8,
+      type: 2}
+    NumberOfAppearance: -1
+    Magnification: 1
+    StrengthOfCastle: 100
+    InitialIntervalFrame: 1200
+    IntervalFrameFrom: 600
+    IntervalFrameTo: 1600
+  - baseCharacterData: {fileID: 11400000, guid: 35f7e9382e3dd488aa77f7d5e40864a8,
+      type: 2}
+    NumberOfAppearance: 6
+    Magnification: 1
+    StrengthOfCastle: 95
+    InitialIntervalFrame: 0
+    IntervalFrameFrom: 60
+    IntervalFrameTo: 120
+  - baseCharacterData: {fileID: 11400000, guid: 635eb48d8fa1b4b74bfe92e656e041a8,
+      type: 2}
+    NumberOfAppearance: 1
+    Magnification: 1
+    StrengthOfCastle: 90
+    InitialIntervalFrame: 0
+    IntervalFrameFrom: 0
+    IntervalFrameTo: 0
+  - baseCharacterData: {fileID: 11400000, guid: cbc782e9cd2d84b019862c4b6f1c50b0,
+      type: 2}
+    NumberOfAppearance: -1
+    Magnification: 1
+    StrengthOfCastle: 100
+    InitialIntervalFrame: 27000
+    IntervalFrameFrom: 27000
+    IntervalFrameTo: 27000
